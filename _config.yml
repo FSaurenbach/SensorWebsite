@@ -2,4 +2,4 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: [Vertikale Gärten]
-description: [Dieses Projekt demonstriert, wie vertikale Gärten die Temperatur verändern und wie sie im Leben genutzt werden können um Gaskosten zu sparen.]
+description: [Dieses Projekt demonstriert, wie vertikale Gärten die Temperatur im Haus verändern und wie sie im Leben genutzt werden können.]
