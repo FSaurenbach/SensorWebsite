@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: [Vertikale Gärten]
 description: [Dieses Projekt demonstriert, wie vertikale Gärten die Temperatur im Haus verändern und wie sie im Leben genutzt werden können.]
+github:
+  is_project_page: false
